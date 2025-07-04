@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: blue;
+  color: black;
+  text-align: center;
+}
+marquee {
+  color: yellow;
+  font-size: 20px;
+}
+.sidebar {
+  width: 150px;
+  background-color: #ffcc99;
+  height: 100%;
+  padding: 10px;
+  text-align: left;
+}
+iframe {
+  border: 2px solid black;
+  width: 600px;
+  height: 400px;
+}
+table {
+  border-collapse: collapse;
+  background-color: white;
+  margin: 0 auto;
+}
+td {
+  padding: 10px;
+  border: 1px solid black;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+  display: block;
+  margin-bottom: 5px;
+}
+.aboutbody {
+  background-color: yellow;
+}
+.aboutimg {
+  width: 150px;
+}
